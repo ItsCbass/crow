@@ -1,0 +1,12 @@
+/Users/bash/Documents/GitHub/crow/target/debug/deps/libanes-9dd37190fbfd896e.rmeta: /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs
+
+/Users/bash/Documents/GitHub/crow/target/debug/deps/anes-9dd37190fbfd896e.d: /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs /Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs
+
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/lib.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/macros.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/attribute.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/buffer.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/color.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/cursor.rs:
+/Users/bash/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anes-0.1.6/src/sequences/terminal.rs:
